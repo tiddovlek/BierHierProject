@@ -4,9 +4,9 @@ footer
 	  
 	face=" Raleway"
 	text-decoration:none;
-	margin-top:100%;
+	margin-top:46%;
 	font-size: 18px;
-	
+	word-spacing: 20px;
 	
 	p {
     font-size: 30px;
@@ -60,7 +60,7 @@ blockquote {
 }
 pre {
 	font-family: Raleway;
-	font-size: 20px;
+	font-size: 13px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
