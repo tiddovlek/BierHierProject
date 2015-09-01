@@ -1,0 +1,71 @@
+footer
+{
+	background-color:gray;
+	  
+	face=" Raleway"
+	text-decoration:none;
+	margin-top:0%;
+}
+<style>
+img {
+    float: right;
+}
+</style>
+ 
+#respond {
+  margin-top: 40px;
+}
+
+#respond input[type='text'],
+#respond input[type='email'], 
+#respond textarea {
+  margin-bottom: 10px;
+  display: block;
+  width: 100%;
+
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  border-radius: 5px;
+
+  line-height: 1.4em;
+}
+
+#nav {
+  list-style: none;
+  font-weight: bold;
+  margin-bottom: 10px;
+  width: 100%;
+  text-align: center;
+ 
+  /*width: 550px;*/
+  /*height: 35px;*/
+  /*display:inline;*/
+  /*margin-left:auto;
+  margin-right:auto;*/
+}
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0;
+  width: 100%;
+}
+#nav li {
+  margin: 0px;
+}
+#nav li a {
+  padding: 0px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #FFFFFF;
+   width: 14.28%;
+  background-color: #000000;
+  float: left
+}
+#nav li a:hover {
+  color: #FFFFFF;
+  background-color: #151515;
+}
