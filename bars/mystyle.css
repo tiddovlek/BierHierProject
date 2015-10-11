@@ -1,4 +1,6 @@
-footer{
+footer
+
+{
 
 background-color:gray;
 
@@ -11,15 +13,15 @@ margin-top: 5%;
 font-weight: bold;
 
 font-size: 15px;
-}
-
-#pic {
-text-align: center;
-
 
 }
 
+p {
+font-family: 'Josefin Sans', sans-serif;
+font-size: 14px;
+color: #000000;
 
+}
 
 
 head
@@ -32,17 +34,21 @@ background-color:gray;
 
 header
 
-{background-color:gray;
+{
+background-color:gray;
 
 }
 
-</style>
 
+h1
+{ font-family: 'Bree Serif', serif;
+color: #00003D;
+font-size: 34px;}
 
-h1 {
+h2 {
 
-font-family: Bevan;
-
+  font-family: 'Bree Serif', serif;
+color: #00003D;
 font-size: 24px;
 
 font-style: normal;
@@ -51,47 +57,18 @@ font-variant: normal;
 
 font-weight: 500;
 
-text-align: center;
-
-color: #990000;
-
-line-height: 24.4px;
+line-height: 26.4px;
 
 }
+h3 {
 
-
-h2 {
-
-font-family: Bevan;
-
+font-family: 'Bree Serif', serif;
+color: #00003D;
 font-size: 34px;
 
 font-style: normal;
 
 font-variant: normal;
-
-color: #990000;
-
-font-weight: 500;
-
-text-align: center;
-
-line-height: 24.4px;
-
-}
-h3 {
-
-font-family: Bevan;
-
-font-size: 24px;
-
-color: #990000;
-
-font-style: normal;
-
-font-variant: normal;
-
-text-align: center;
 
 font-weight: 500;
 
@@ -101,28 +78,6 @@ line-height: 26.4px;
 
 
 p {
-
-font-family: Raleway;
-
-font-size: 20px;
-
-color: #1A1A1A;
-
-font-style: normal;
-
-font-family: 'Alegreya Sans SC', sans-serif;
-
-text-align: center;
-
-font-variant: normal;
-
-font-weight: 400;
-
-line-height: 20px;
-
-}
-
-blockquote {
 
 font-family: Raleway;
 
@@ -138,11 +93,27 @@ line-height: 20px;
 
 }
 
+blockquote {
+
+font-family: Raleway;
+
+font-size: 21px;
+
+font-style: normal;
+
+font-variant: normal;
+
+font-weight: 400;
+
+line-height: 30px;
+
+}
+
 pre {
 
 font-family: Raleway;
 
-font-size: 15px;
+font-size: 20px;
 
 font-style: normal;
 
@@ -153,6 +124,7 @@ font-weight: 400;
 line-height: 18.5667px;
 
 }
+
 
 #nav {
 
@@ -206,7 +178,7 @@ color: #FFFFFF;
 
 width: 14.28%;
 
-background-color: #000000;
+background-color: red;
 
 float: left
 
@@ -216,6 +188,6 @@ float: left
 
 color: #FFFFFF;
 
-background-color: #151515;
+background-color: red;
 
 }
