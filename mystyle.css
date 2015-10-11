@@ -41,7 +41,7 @@ header
 
 h1 {
 
-font-family: Bevan;
+font-family: 'Bevan', cursive;
 
 font-size: 24px;
 
@@ -62,7 +62,7 @@ line-height: 24.4px;
 
 h2 {
 
-font-family: Bevan;
+font-family: 'Bevan', cursive;
 
 font-size: 34px;
 
@@ -81,7 +81,7 @@ line-height: 24.4px;
 }
 h3 {
 
-font-family: Bevan;
+font-family: 'Bevan', cursive;
 
 font-size: 24px;
 
@@ -102,11 +102,11 @@ line-height: 26.4px;
 
 p {
 
-font-family: Raleway;
+font-family: 'Alegreya Sans SC', sans-serif;
 
 font-size: 20px;
 
-color: #1A1A1A;
+color: #141A1A;
 
 font-style: normal;
 
